@@ -1,0 +1,1 @@
+If the user wants to try with WSL, they can download WSL Ubuntu 20.04 and install default provided packages of dependencies except Pangolin (strictly version 0.6) and PCL (strictly version 1.9.1), which have to be compiled from source. 
